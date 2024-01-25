@@ -47,7 +47,7 @@ $HOME/.config/lvim
         ├── plugins.lua
         └── whichkey.lua
 
-4 directories, 13 files
+4 directories, 12 files
 
 ```
 
