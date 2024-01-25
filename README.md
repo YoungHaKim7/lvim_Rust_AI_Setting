@@ -1,3 +1,9 @@
+<p align="center">
+  <img alt="rust1" width="48px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" />
+</p>
+
+<hr>
+
 ## Contents [[🔝]](#contents-)
 - [내가 주로 쓰는 InlayHint Color](#lvim-쓸-때-cargo-fmt--cargo-check-활용하자)
 
