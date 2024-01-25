@@ -92,6 +92,47 @@ $HOME/.local/share/lunarvim/lvim
 
 # 다른 Vim Setting[[🔝]](#contents-)
 - https://github.com/YoungHaKim7/rust_vim_setting
+```
+# doom_emacs_setting
+.emacs.d
+
+	
+01_Vim_NeoVim_etc_Rust_settings
+	
+02_VScodeSetting_json
+	
+03_VS_Visual_Studio_Vim_Setting
+	
+04_helix_settings
+	
+05_Eclipse_Vim_settings
+	
+06_IntelliJ_IDEA_Vim_Setting
+	
+07_Sc_im_vim_excel
+	
+08_Android_Studio_Vim_Setting
+	
+09_macOS_Brewfile
+	
+10_FishShell
+	
+11_Zed_Editor
+
+Lapce_editor
+	
+alacritty
+	
+broot_tree
+	
+doom_emacs.d
+	
+dotfiles_linux
+	
+tmux_conf
+	
+windows_terminal_settings
+```
 - https://github.com/YoungHaKim7/lvim-config_gyoung_tabby_AI_Setting
 
 <hr>
