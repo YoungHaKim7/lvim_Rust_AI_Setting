@@ -3,10 +3,10 @@ LunarVim_luaSetting_(Rust Languges &amp; Tabby AI &amp; snippets setting)
 
 - lvim-config_gyoung
 
-1. install
+  - 1. install
 https://www.lunarvim.org/
 
-2. .config/lvim 세팅
+  - 2. .config/lvim 세팅
 
 - 설정 위치
 
