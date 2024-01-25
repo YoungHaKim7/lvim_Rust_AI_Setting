@@ -1,6 +1,13 @@
 # lvim_Rust_AI_Setting-
 LunarVim_luaSetting_(Rust Languges &amp; Tabby AI &amp; snippets setting)
 
+- lvim-config_gyoung
+
+1. install
+https://www.lunarvim.org/
+
+2. .config/lvim 세팅
+
 - 설정 위치
 
 ```
@@ -144,13 +151,6 @@ $ cargo fmt && cargo check
 
 
 <hr>
-
-# lvim-config_gyoung
-
-1. install
-https://www.lunarvim.org/
-
-2. .config/lvim 세팅
 
 # 이거 원래 주인 영상 My Development Setup (Neovim, Tmux, Alacritty & Rust-based CLI Tools)
 
