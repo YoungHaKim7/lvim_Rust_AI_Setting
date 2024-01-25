@@ -50,6 +50,7 @@ $HOME/.local/share/lunarvim/lvim
 
 # 다른 Vim Setting
 - https://github.com/YoungHaKim7/rust_vim_setting
+- https://github.com/YoungHaKim7/lvim-config_gyoung_tabby_AI_Setting
 
 <hr>
 
