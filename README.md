@@ -1,4 +1,4 @@
-# Link<a href="https://github.com/YoungHaKim7/rust_vim_setting/tree/main/04_helix_settings#helix-a-post-modern-text-editor">[🔝]</a>
+# Link<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 
 - 다른 언어들 LSP 설정How to install the default language servers(각 언어별 LSP세팅 방법)
   - https://github.com/helix-editor/helix/wiki/How-to-install-the-default-language-servers
@@ -58,19 +58,19 @@ $HOME/.config/lvim
 $HOME/.local/share/lunarvim/lvim
 ```
 
-# 다른 Vim Setting
+# 다른 Vim Setting<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 - https://github.com/YoungHaKim7/rust_vim_setting
 - https://github.com/YoungHaKim7/lvim-config_gyoung_tabby_AI_Setting
 
 <hr>
 
-# 외국분이 내 세팅 더 깔끔하게 정리해줌
+# 외국분이 내 세팅 더 깔끔하게 정리해줌<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 
 - https://github.com/pingu1m/config
 
 - https://github.com/pingu1m/config/blob/main/nvim/lua/plugins/extras.lua
 
-# friendly-snippets rust.json경로
+# friendly-snippets rust.json경로<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 
 - 여기에 잘 추가해 주면 됨
 ```
@@ -84,7 +84,7 @@ $HOME/.local/share/lunarvim/lvim
   - 출처 : The Rust Production Coding Blueprints repository is maintained by Jeremy Chone (https://youtube.com/jeremychone).
     - https://github.com/rust10x/rust10x-vscode
 
-# Tabby AI(Coding Assistant)
+# Tabby AI(Coding Assistant)<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 - About
   - Self-hosted AI coding assistant
 
@@ -144,7 +144,7 @@ tabbyml/tabby \
 serve –model TabbyML/CodeLlama-7B –device cuda
 ```
 
-# lvim 쓸 때 ```cargo fmt && cargo check``` 활용하자
+# lvim 쓸 때 ```cargo fmt && cargo check``` 활용하자<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 
 ```bash
 $ cargo fmt && cargo check
@@ -164,12 +164,12 @@ $ cargo fmt && cargo check
 
 <hr>
 
-# 이거 원래 주인 영상 My Development Setup (Neovim, Tmux, Alacritty & Rust-based CLI Tools)
+# 이거 원래 주인 영상 My Development Setup (Neovim, Tmux, Alacritty & Rust-based CLI Tools)<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 
 https://youtu.be/stCXFxC4OH0
 
 
-# Fork Github & Thank you.
+# Fork Github & Thank you.<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 
 https://github.com/adibhanna/lvim-config
 
