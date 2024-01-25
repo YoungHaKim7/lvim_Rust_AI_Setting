@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="rust1" width="120px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" />
-  <img alt="lvim" width="100px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/78e0bcb8-35f9-4bee-89d5-6bbfea63bc73" />
+  <img alt="rust1" width="100px" src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" />
+  <img alt="lvim" width="140px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/78e0bcb8-35f9-4bee-89d5-6bbfea63bc73" />
 </p>
 
 <hr>
