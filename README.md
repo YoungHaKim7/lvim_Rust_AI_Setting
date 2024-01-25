@@ -41,6 +41,9 @@ $HOME/.config/lvim
 $HOME/.local/share/lunarvim/lvim
 ```
 
+# 다른 Vim Setting
+- https://github.com/YoungHaKim7/rust_vim_setting
+
 <hr>
 
 # 외국분이 내 세팅 더 깔끔하게 정리해줌
