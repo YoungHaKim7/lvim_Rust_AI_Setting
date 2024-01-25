@@ -2,12 +2,10 @@
 
 - [내가 주로 쓰는 InlayHint Color](#lvim-쓸-때-cargo-fmt--cargo-check-활용하자)
 
-- friendly-snippets rust.json경로
-  - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#friendly-snippets-rustjson%EA%B2%BD%EB%A1%9C">friendly-snippets rust.json경로</a>
-    - rust.json 오리지날 출처(Jeremy Chone짱짱)
-      - 출처 : The Rust Production Coding Blueprints repository is maintained by Jeremy Chone (https://youtube.com/jeremychone). 
-- Tabby Install(Self-hosted AI coding assistant)
-  - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#tabby-aicoding-assistant">Self-hosted AI coding assistant.</a>
+- [friendly-snippets rust.json경로](#friendly-snippets-rustjson%EA%B2%BD%EB%A1%9C)
+  - rust.json 오리지날 출처(Jeremy Chone짱짱)
+    - 출처 : The Rust Production Coding Blueprints repository is maintained by Jeremy Chone (https://youtube.com/jeremychone). 
+- [Tabby Install(Self-hosted AI coding assistant)](#tabby-aicoding-assistant)
 
 - LunarVim 세팅 오리지날 주인(Source)
   - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#%EC%9D%B4%EA%B1%B0-%EC%9B%90%EB%9E%98-%EC%A3%BC%EC%9D%B8-%EC%98%81%EC%83%81-my-development-setup-neovim-tmux-alacritty--rust-based-cli-tools"> LunarVim 세팅 Source 주인.</a>
@@ -64,19 +62,19 @@ $HOME/.config/lvim
 $HOME/.local/share/lunarvim/lvim
 ```
 
-# 다른 Vim Setting<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
+# 다른 Vim Setting<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#contents-">[🔝]</a>
 - https://github.com/YoungHaKim7/rust_vim_setting
 - https://github.com/YoungHaKim7/lvim-config_gyoung_tabby_AI_Setting
 
 <hr>
 
-# 외국분이 내 세팅 더 깔끔하게 정리해줌<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
+# 외국분이 내 세팅 더 깔끔하게 정리해줌<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#contents-">[🔝]</a>
 
 - https://github.com/pingu1m/config
 
 - https://github.com/pingu1m/config/blob/main/nvim/lua/plugins/extras.lua
 
-# friendly-snippets rust.json경로<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
+# friendly-snippets rust.json경로<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#contents-">[🔝]</a>
 
 - 여기에 잘 추가해 주면 됨
 ```
@@ -90,7 +88,7 @@ $HOME/.local/share/lunarvim/lvim
   - 출처 : The Rust Production Coding Blueprints repository is maintained by Jeremy Chone (https://youtube.com/jeremychone).
     - https://github.com/rust10x/rust10x-vscode
 
-# Tabby AI(Coding Assistant)<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
+# Tabby AI(Coding Assistant)<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#contents-">[🔝]</a>
 - About
   - Self-hosted AI coding assistant
 
@@ -150,7 +148,7 @@ tabbyml/tabby \
 serve –model TabbyML/CodeLlama-7B –device cuda
 ```
 
-# lvim 쓸 때 ```cargo fmt && cargo check``` 활용하자<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
+# lvim 쓸 때 ```cargo fmt && cargo check``` 활용하자<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#contents-">[🔝]</a>
 
 ```bash
 $ cargo fmt && cargo check
@@ -170,7 +168,7 @@ $ cargo fmt && cargo check
 
 <hr>
 
-# 이거 원래 주인 영상 My Development Setup (Neovim, Tmux, Alacritty & Rust-based CLI Tools)<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
+# 이거 원래 주인 영상 My Development Setup (Neovim, Tmux, Alacritty & Rust-based CLI Tools)[[🔝]](#contents-)
 
 https://youtu.be/stCXFxC4OH0
 
