@@ -132,6 +132,10 @@ dotfiles_linux
 tmux_conf
 	
 windows_terminal_settings
+
+.zshrc
+	
+vimrc
 ```
 - https://github.com/YoungHaKim7/lvim-config_gyoung_tabby_AI_Setting
 
