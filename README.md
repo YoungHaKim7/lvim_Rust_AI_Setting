@@ -62,6 +62,9 @@ $HOME/.local/share/lunarvim/lvim
 - https://github.com/YoungHaKim7/rust_vim_setting/blob/main/01_Vim_NeoVim_etc_Rust_settings/snippets_Lunar_NeoVim/rust/rust.json
 - https://github.com/YoungHaKim7/rust_vim_setting/tree/main/01_Vim_NeoVim_etc_Rust_settings/snippets_Lunar_NeoVim
 
+- rust.json 오리지날 출처(Jeremy Chone짱짱)
+  - https://github.com/rust10x/rust10x-vscode
+
 # Tabby AI(Coding Assistant)
 - About
   - Self-hosted AI coding assistant
