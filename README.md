@@ -24,6 +24,8 @@
   - [러스트Rust 고수의 Snippets](#rust%EA%B3%A0%EC%88%98%EC%9D%98-snippets%EC%A0%95%EB%A6%AC)
   - [Helix Text Editor Snippets서버 구축하기](#helix-snippets-server%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 
+- [Vim세팅관련(VSCode, VS, IntelliJ, AndroidStudio)](#%EB%8B%A4%EB%A5%B8-vim-setting )
+
 <hr>
 
 # lvim_Rust_AI_Setting
