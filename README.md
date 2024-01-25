@@ -1,4 +1,4 @@
-# Link<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
+## Contents <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 
 - [내가 주로 쓰는 InlayHint Color](#lvim-쓸-때-cargo-fmt--cargo-check-활용하자)
 
