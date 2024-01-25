@@ -8,6 +8,8 @@
 
 - [LunarVim 세팅 오리지날 주인(Source)](#%EC%9D%B4%EA%B1%B0-%EC%9B%90%EB%9E%98-%EC%A3%BC%EC%9D%B8-%EC%98%81%EC%83%81-my-development-setup-neovim-tmux-alacritty--rust-based-cli-tools)
 
+- [LunarVim Setting 내가 공부하려고 정리한 영상YouTubeContents](#007%EA%B0%9C%EA%B3%A0%EC%83%9D%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-rust_fullstack_lunarvim_setting_part1)
+
 <hr>
 
 # lvim_Rust_AI_Setting
@@ -52,7 +54,7 @@ $HOME/.config/lvim
 
 <hr>
 
-# 007개고생하면서 배우는 Rust_FullStack_LunarVim_Setting_part1
+# 007개고생하면서 배우는 Rust_FullStack_LunarVim_Setting_part1[[🔝]](#contents-)
   - https://youtube.com/live/skO5_MgVQnI?feature=share
 
 - lunarvim 설치되는 위치 어떻게 구현되는지 확인가능
