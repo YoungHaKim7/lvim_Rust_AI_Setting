@@ -8,7 +8,7 @@
     - rust.json 오리지날 출처(Jeremy Chone짱짱)
       - 출처 : The Rust Production Coding Blueprints repository is maintained by Jeremy Chone (https://youtube.com/jeremychone). 
 - Tabby Install(Self-hosted AI coding assistant)
-  - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#tabby-aicoding-assistant">Self-hosted AI coding assistant(AI코드 설치하는 방법).</a>
+  - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#tabby-aicoding-assistant">Self-hosted AI coding assistant.</a>
 
 - LunarVim 세팅 오리지날 주인(Source)
   - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#%EC%9D%B4%EA%B1%B0-%EC%9B%90%EB%9E%98-%EC%A3%BC%EC%9D%B8-%EC%98%81%EC%83%81-my-development-setup-neovim-tmux-alacritty--rust-based-cli-tools"> LunarVim 세팅 Source 주인.</a>
