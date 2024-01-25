@@ -10,6 +10,10 @@
 
 - [LunarVim Setting 내가 공부하려고 정리한 영상YouTubeContents](#007%EA%B0%9C%EA%B3%A0%EC%83%9D%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-rust_fullstack_lunarvim_setting_part1)
 
+- Rust Snippets관련 자료
+  - [러스트Rust 고수의 Snippets](#rust%EA%B3%A0%EC%88%98%EC%9D%98-snippets%EC%A0%95%EB%A6%AC)
+  - [Helix Text Editor Snippets서버 구축하기](#helix-snippets-server%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
+
 <hr>
 
 # lvim_Rust_AI_Setting
