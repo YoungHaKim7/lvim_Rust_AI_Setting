@@ -22,6 +22,9 @@ https://www.lunarvim.org/
 
   - 2. .config/lvim 세팅
 
+- FTPlugin(filetype plugin)
+  - https://www.lunarvim.org/docs/configuration/ftplugin
+
 - 설정 위치
 
 ```
