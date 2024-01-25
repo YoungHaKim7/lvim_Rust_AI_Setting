@@ -1,7 +1,7 @@
 # Link<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 
-- H다른 언어들 LSP 설정How to install the default language servers(각 언어별 LSP세팅 방법)
-  - https://github.com/helix-editor/helix/wiki/How-to-install-the-default-language-servers
+- 내가 주로 쓰는 InlayHint Color
+  - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#lvim-%EC%93%B8-%EB%95%8C-cargo-fmt--cargo-check-%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90">friendly-snippets rust.json경로</a>
 
 - friendly-snippets rust.json경로
   - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#friendly-snippets-rustjson%EA%B2%BD%EB%A1%9C">friendly-snippets rust.json경로</a>
