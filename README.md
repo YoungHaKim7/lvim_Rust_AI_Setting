@@ -1,5 +1,4 @@
-## Contents <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#contents-">[🔝]</a>
-
+## Contents [[🔝]](#contents-)
 - [내가 주로 쓰는 InlayHint Color](#lvim-쓸-때-cargo-fmt--cargo-check-활용하자)
 
 - [friendly-snippets rust.json경로](#friendly-snippets-rustjson%EA%B2%BD%EB%A1%9C)
@@ -62,19 +61,19 @@ $HOME/.config/lvim
 $HOME/.local/share/lunarvim/lvim
 ```
 
-# 다른 Vim Setting<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#contents-">[🔝]</a>
+# 다른 Vim Setting[[🔝]](#contents-)
 - https://github.com/YoungHaKim7/rust_vim_setting
 - https://github.com/YoungHaKim7/lvim-config_gyoung_tabby_AI_Setting
 
 <hr>
 
-# 외국분이 내 세팅 더 깔끔하게 정리해줌<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#contents-">[🔝]</a>
+# 외국분이 내 세팅 더 깔끔하게 정리해줌[[🔝]](#contents-)
 
 - https://github.com/pingu1m/config
 
 - https://github.com/pingu1m/config/blob/main/nvim/lua/plugins/extras.lua
 
-# friendly-snippets rust.json경로<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#contents-">[🔝]</a>
+# friendly-snippets rust.json경로[[🔝]](#contents-)
 
 - 여기에 잘 추가해 주면 됨
 ```
@@ -88,7 +87,7 @@ $HOME/.local/share/lunarvim/lvim
   - 출처 : The Rust Production Coding Blueprints repository is maintained by Jeremy Chone (https://youtube.com/jeremychone).
     - https://github.com/rust10x/rust10x-vscode
 
-# Tabby AI(Coding Assistant)<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#contents-">[🔝]</a>
+# Tabby AI(Coding Assistant)[[🔝]](#contents-)
 - About
   - Self-hosted AI coding assistant
 
@@ -148,7 +147,7 @@ tabbyml/tabby \
 serve –model TabbyML/CodeLlama-7B –device cuda
 ```
 
-# lvim 쓸 때 ```cargo fmt && cargo check``` 활용하자<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#contents-">[🔝]</a>
+# lvim 쓸 때 ```cargo fmt && cargo check``` 활용하자[[🔝]](#contents-)
 
 ```bash
 $ cargo fmt && cargo check
@@ -173,16 +172,16 @@ $ cargo fmt && cargo check
 https://youtu.be/stCXFxC4OH0
 
 
-# Fork Github & Thank you.<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
+# Fork Github & Thank you.[[🔝]](#contents-)
 
 https://github.com/adibhanna/lvim-config
 
-# zig lang setting 난중에 적용할 예정
+# zig lang setting 난중에 적용할 예정[[🔝]](#contents-)
 
 https://github.com/NTBBloodbath/zig-tools.nvim
 
 
-# Todo
+# Todo[[🔝]](#contents-)
 - [x] Apply jk as esc
   - /lua/user/keymaps.lua
   - ```
