@@ -10,6 +10,15 @@ LunarVim_luaSetting_(Rust Languges &amp; Tabby AI &amp; snippets setting)
 
 - https://github.com/pingu1m/config/blob/main/nvim/lua/plugins/extras.lua
 
+# friendly-snippets rust.json경로
+
+- 여기에 잘 추가해 주면 됨
+```
+.local/share/lunarvim/site/pack/lazy/opt/friendly-snippets/snippets/rust/rust.json
+```
+- ```rust.json``` 참고
+- https://github.com/YoungHaKim7/rust_vim_setting/blob/main/01_Vim_NeoVim_etc_Rust_settings/snippets_Lunar_NeoVim/rust/rust.json
+- https://github.com/YoungHaKim7/rust_vim_setting/tree/main/01_Vim_NeoVim_etc_Rust_settings/snippets_Lunar_NeoVim
 
 # Tabby AI(Coding Assistant)
 - About
