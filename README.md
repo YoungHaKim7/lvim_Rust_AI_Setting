@@ -1,10 +1,10 @@
 # Link<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 
-- 다른 언어들 LSP 설정How to install the default language servers(각 언어별 LSP세팅 방법)
+- H다른 언어들 LSP 설정How to install the default language servers(각 언어별 LSP세팅 방법)
   - https://github.com/helix-editor/helix/wiki/How-to-install-the-default-language-servers
 
 - friendly-snippets rust.json경로
-  - <a href="https://github.com/YoungHaKim7/rust_vim_setting/tree/main/04_helix_settings#helix-java-lsp-install--jdtls%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-%EA%B7%B8%EB%83%A5-github-%EB%95%A1%EA%B8%B0%EA%B3%A0-install%ED%95%98%EB%A9%B4-%EC%84%A4%EC%B9%98-%EB%90%9C%EB%8B%A4-%EC%B5%9C%EA%B3%A0">friendly-snippets rust.json경로</a>
+  - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#friendly-snippets-rustjson%EA%B2%BD%EB%A1%9C">friendly-snippets rust.json경로</a>
 
 <hr>
 
