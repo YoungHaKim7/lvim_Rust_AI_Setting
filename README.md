@@ -30,9 +30,17 @@ https://www.lunarvim.org/
 ```
 $HOME/.config/lvim
 ```
-
-- tree
-```
+tree          
+.
+├── after
+│   └── ftplugin
+│       ├── bash.lua
+│       ├── go.lua
+│       ├── javascript.lua
+│       ├── javascriptreact.lua
+│       ├── rust.lua
+│       ├── typescript.lua
+│       └── typescriptreact.lua
 ├── config.lua
 ├── lazy-lock.json
 └── lua
@@ -50,7 +58,8 @@ $HOME/.config/lvim
         ├── plugins.lua
         └── whichkey.lua
 
-4 directories, 12 files
+6 directories, 19 files
+
 
 ```
 
