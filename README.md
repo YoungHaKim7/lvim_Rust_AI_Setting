@@ -30,6 +30,9 @@ https://www.lunarvim.org/
 ```
 $HOME/.config/lvim
 ```
+
+- tree
+```
 tree          
 .
 ├── after
@@ -59,8 +62,6 @@ tree
         └── whichkey.lua
 
 6 directories, 19 files
-
-
 ```
 
 <hr>
