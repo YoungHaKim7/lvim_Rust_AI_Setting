@@ -176,6 +176,17 @@ $ cargo fmt && cargo check
 :hi Comment guifg=#8aaecf guibg=#4e1a1a
 ```
 
+<hr>
+
+# Rust고수의 snippets정리[[🔝]](#contents-)
+
+- https://github.com/hhatto/rust-snippets
+
+- 포크함 Fork https://github.com/YoungHaKim7/rust-snippets
+
+# Helix snippets Server구축하기
+
+- https://github.com/estin/simple-completion-language-server
 
 
 <hr>
