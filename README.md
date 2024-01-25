@@ -1,7 +1,6 @@
 # Link<a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#link">[🔝]</a>
 
-- 내가 주로 쓰는 InlayHint Color
-  - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#lvim-%EC%93%B8-%EB%95%8C-cargo-fmt--cargo-check-%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90">friendly-snippets rust.json경로</a>
+- [내가 주로 쓰는 InlayHint Color](#lvim-쓸-때-cargo-fmt--cargo-check-활용하자)
 
 - friendly-snippets rust.json경로
   - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#friendly-snippets-rustjson%EA%B2%BD%EB%A1%9C">friendly-snippets rust.json경로</a>
