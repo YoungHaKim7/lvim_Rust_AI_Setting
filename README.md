@@ -34,7 +34,6 @@ $HOME/.config/lvim
 ├── lazy-lock.json
 └── lua
     └── user
-        ├── fidget.lua
         ├── functions.lua
         ├── icons.lua
         ├── inlay-hints.lua
