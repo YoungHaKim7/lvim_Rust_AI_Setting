@@ -5,6 +5,8 @@
 
 - friendly-snippets rust.json경로
   - <a href="https://github.com/YoungHaKim7/lvim_Rust_AI_Setting#friendly-snippets-rustjson%EA%B2%BD%EB%A1%9C">friendly-snippets rust.json경로</a>
+    - rust.json 오리지날 출처(Jeremy Chone짱짱)
+      - 출처 : The Rust Production Coding Blueprints repository is maintained by Jeremy Chone (https://youtube.com/jeremychone). 
 
 <hr>
 
