@@ -52,7 +52,7 @@ $HOME/.config/lvim
 
 <hr>
 
-- 007개고생하면서 배우는 Rust_FullStack_LunarVim_Setting_part1
+# 007개고생하면서 배우는 Rust_FullStack_LunarVim_Setting_part1
   - https://youtube.com/live/skO5_MgVQnI?feature=share
 
 - lunarvim 설치되는 위치 어떻게 구현되는지 확인가능
