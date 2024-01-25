@@ -7,6 +7,30 @@ LunarVim_luaSetting_(Rust Languges &amp; Tabby AI &amp; snippets setting)
 $HOME/.config/lvim
 ```
 
+- tree
+```
+├── config.lua
+├── lazy-lock.json
+└── lua
+    └── user
+        ├── fidget.lua
+        ├── functions.lua
+        ├── icons.lua
+        ├── inlay-hints.lua
+        ├── keymaps.lua
+        ├── lsp
+        │   ├── init.lua
+        │   └── languages
+        │       ├── rust.lua
+        │       └── sh.lua
+        ├── options.lua
+        ├── plugins.lua
+        └── whichkey.lua
+
+4 directories, 13 files
+
+```
+
 <hr>
 
 - 007개고생하면서 배우는 Rust_FullStack_LunarVim_Setting_part1
