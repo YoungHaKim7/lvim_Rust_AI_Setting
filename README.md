@@ -1,6 +1,7 @@
 # lvim_Rust_AI_Setting-
 LunarVim_luaSetting_(Rust Languges &amp; Tabby AI &amp; snippets setting)
-
+- 007개고생하면서 배우는 Rust_FullStack_LunarVim_Setting_part1
+  - https://youtube.com/live/skO5_MgVQnI?feature=share
 
 <hr>
 
