@@ -9,6 +9,8 @@
 <hr>
 
 ## Contents [[🔝]](#contents-)
+- [my NeoVim & LazyVim세팅 ](#내-neovim-세팅lazyvim--neovim)
+<hr>
 - [내가 주로 쓰는 InlayHint Color](#lvim-쓸-때-cargo-fmt--cargo-check-활용하자)
 
 - [friendly-snippets rust.json경로](#friendly-snippets-rustjson%EA%B2%BD%EB%A1%9C)
