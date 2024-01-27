@@ -10,7 +10,9 @@
 
 ## Contents [[🔝]](#contents-)
 - [my NeoVim & LazyVim세팅 ](#내-neovim-세팅lazyvim--neovim)
+
 <hr>
+
 - [내가 주로 쓰는 InlayHint Color](#lvim-쓸-때-cargo-fmt--cargo-check-활용하자)
 
 - [friendly-snippets rust.json경로](#friendly-snippets-rustjson%EA%B2%BD%EB%A1%9C)
@@ -247,7 +249,7 @@ $ cargo fmt && cargo check
 
 - 포크함 Fork https://github.com/YoungHaKim7/rust-snippets
 
-# Helix snippets Server구축하기
+# Helix snippets Server구축하기[[🔝]](#contents-)
 
 - https://github.com/estin/simple-completion-language-server
 
@@ -301,7 +303,7 @@ https://github.com/NTBBloodbath/zig-tools.nvim
 
 <hr>
 
-# 내 NeoVim 세팅(LazyVim & NeoVim)
+# 내 NeoVim 세팅(LazyVim & NeoVim)[[🔝]](#contents-)
 
 - https://github.com/YoungHaKim7/nvim_gysetting
 
