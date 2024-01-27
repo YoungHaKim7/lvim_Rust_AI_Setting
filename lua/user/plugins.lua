@@ -4,13 +4,22 @@
 lvim.plugins = {
   "folke/tokyonight.nvim",
   "lvimuser/lsp-inlayhints.nvim",
-  {
-    "tpope/vim-surround",
+  -- {
+  --   "tpope/vim-surround",
 
-    -- make sure to change the value of `timeoutlen` if it's not triggering correctly, see https://github.com/tpope/vim-surround/issues/117
-    -- setup = function()
-      --  vim.o.timeoutlen = 500
-    -- end
+  --   -- make sure to change the value of `timeoutlen` if it's not triggering correctly, see https://github.com/tpope/vim-surround/issues/117
+  --   -- setup = function()
+  --     --  vim.o.timeoutlen = 500
+  --   -- end
+  -- },
+  {
+      "kylechui/nvim-surround",
+      version = "*", -- Use for stability; omit to use `main` branch for the latest features
+      config = function()
+          require("nvim-surround").setup({
+              -- Configuration here, or leave empty to use defaults
+          })
+      end
   },
   {
     "rafamadriz/friendly-snippets"
