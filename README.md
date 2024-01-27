@@ -304,6 +304,10 @@ https://github.com/NTBBloodbath/zig-tools.nvim
 
 <hr>
 
+# Migration Guide
+
+- https://github.com/folke/lazy.nvim#-migration-guide 
+
 # 내 NeoVim 세팅(LazyVim & NeoVim)[[🔝]](#contents-)
 
 - https://github.com/YoungHaKim7/nvim_gysetting
