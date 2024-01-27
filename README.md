@@ -249,18 +249,6 @@ $ cargo fmt && cargo check
 
 - https://github.com/estin/simple-completion-language-server
 
-
-<hr>
-
-# 이거 원래 주인 영상 My Development Setup (Neovim, Tmux, Alacritty & Rust-based CLI Tools)[[🔝]](#contents-)
-
-https://youtu.be/stCXFxC4OH0
-
-
-# Fork Github & Thank you.[[🔝]](#contents-)
-
-https://github.com/adibhanna/lvim-config
-
 # zig lang setting 난중에 적용할 예정[[🔝]](#contents-)
 
 https://github.com/NTBBloodbath/zig-tools.nvim
@@ -309,3 +297,20 @@ https://github.com/NTBBloodbath/zig-tools.nvim
 
   - todo!()
 
+<hr>
+
+# 내 NeoVim 세팅(LazyVim & NeoVim)
+
+- https://github.com/YoungHaKim7/nvim_gysetting
+
+
+<hr>
+
+# 이거 원래 주인 영상 My Development Setup (Neovim, Tmux, Alacritty & Rust-based CLI Tools)[[🔝]](#contents-)
+
+https://youtu.be/stCXFxC4OH0
+
+
+# Fork Github & Thank you.[[🔝]](#contents-)
+
+https://github.com/adibhanna/lvim-config
