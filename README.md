@@ -254,6 +254,25 @@ $ cargo fmt && cargo check
 
 - https://github.com/estin/simple-completion-language-server
 
+# Nvim - Surround[[🔝]](#contents-)
+
+- https://github.com/kylechui/nvim-surround 
+
+```
+    Old text                    Command         New text
+--------------------------------------------------------------------------------
+    surr*ound_words             ysiw)           (surround_words)
+    *make strings               ys$"            "make strings"
+    [delete ar*ound me!]        ds]             delete around me!
+    remove <b>HTML t*ags</b>    dst             remove HTML tags
+    'change quot*es'            cs'"            "change quotes"
+    <b>or tag* types</b>        csth1<CR>       <h1>or tag types</h1>
+    delete(functi*on calls)     dsf             function calls
+
+```
+
+<hr>
+
 # zig lang setting 난중에 적용할 예정[[🔝]](#contents-)
 
 https://github.com/NTBBloodbath/zig-tools.nvim
@@ -304,7 +323,7 @@ https://github.com/NTBBloodbath/zig-tools.nvim
 
 <hr>
 
-# Migration Guide
+# Migration Guide[[🔝]](#contents-)
 
 - https://github.com/folke/lazy.nvim#-migration-guide 
 
