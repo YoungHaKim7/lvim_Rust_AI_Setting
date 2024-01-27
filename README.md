@@ -18,6 +18,9 @@
 - [friendly-snippets rust.json경로](#friendly-snippets-rustjson%EA%B2%BD%EB%A1%9C)
   - rust.json 오리지날 출처(Jeremy Chone짱짱)
     - 출처 : The Rust Production Coding Blueprints repository is maintained by Jeremy Chone (https://youtube.com/jeremychone). 
+
+- [nvim-surround 설명서](#nvim---surround)
+
 - [Tabby Install(Self-hosted AI coding assistant)](#tabby-aicoding-assistant)
 
 - [LunarVim 세팅 오리지날 주인(Source)](#%EC%9D%B4%EA%B1%B0-%EC%9B%90%EB%9E%98-%EC%A3%BC%EC%9D%B8-%EC%98%81%EC%83%81-my-development-setup-neovim-tmux-alacritty--rust-based-cli-tools)
@@ -29,6 +32,8 @@
   - [Helix Text Editor Snippets서버 구축하기](#helix-snippets-server%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 
 - [Vim세팅관련(VSCode, VS, IntelliJ, AndroidStudio)](#%EB%8B%A4%EB%A5%B8-vim-setting )
+
+- [LunarVim 버젼 업으로 명령어 바뀐 Migration guide](#migration-guide)
 
 <hr>
 
