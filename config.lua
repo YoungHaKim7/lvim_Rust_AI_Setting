@@ -10,5 +10,6 @@ reload "user.whichkey"
 reload "user.lsp"
 reload "user.inlay-hints"
 reload "user.functions"
+reload "user.fidget"
 
 -- reload "user.fidget"

@@ -4,6 +4,7 @@
 lvim.plugins = {
   "folke/tokyonight.nvim",
   "lvimuser/lsp-inlayhints.nvim",
+   "j-hui/fidget.nvim",
   -- {
   --   "tpope/vim-surround",
 
