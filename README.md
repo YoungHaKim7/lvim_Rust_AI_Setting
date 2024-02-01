@@ -335,6 +335,9 @@ https://github.com/NTBBloodbath/zig-tools.nvim
 # 내 NeoVim 세팅(LazyVim & NeoVim)[[🔝]](#contents-)
 
 - https://github.com/YoungHaKim7/nvim_gysetting
+  - Windows에 쓸만한 NeoVim
+    - https://github.com/YoungHaKim7/nvim_gy_NvChad_version
+
 
 
 <hr>
