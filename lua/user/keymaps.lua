@@ -6,23 +6,26 @@ local opts = {noremap = true, silent = true}
 local keymap = vim.keymap.set
 
 keymap("n", "<C-Space>", "<cmd>WhichKey \\<space><cr>", opts)
-keymap("n", "<leader>bt", "<cmd>:tabe<CR>", opts)
-keymap("n", "<leader>btt", "<cmd>:terminal<CR>", opts)
+keymap("n", "<leader>bt", "<cmd>tabe<CR>", opts)
+keymap("n", "<leader>btt", "<cmd>terminal<CR>", opts)
 
-
+-- ------
 -- Insert_Mode
 lvim.keys.insert_mode["jk"] = "<Esc>"
 
 
 
+-- ------
 -- Normal --
---
+
 lvim.keys.normal_mode["<leader>t"] = "<cmd>TroubleToggle<CR>"
 lvim.keys.normal_mode["<leader>o"] = "<cmd>SymbolsOutline<CR>"
 lvim.keys.normal_mode["L"] = "<cmd>:bn<CR>"
 lvim.keys.normal_mode["H"] = "<cmd>:bp<CR>"
--- Visual_Mode
+lvim.keys.normal_mode["<leader>rnn"] = ":%s//gc<Left><Left><Left>"
 
+-- ------
+-- Visual_Mode ---
 lvim.keys.visual_mode["J"] = ":m '>+1<CR>gv=gv"
 lvim.keys.visual_mode["K"] = ":m '<-2<CR>gv=gv"
 
