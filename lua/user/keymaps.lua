@@ -6,6 +6,8 @@ local opts = {noremap = true, silent = true}
 local keymap = vim.keymap.set
 
 keymap("n", "<C-Space>", "<cmd>WhichKey \\<space><cr>", opts)
+keymap("n", "<leader>bt", "<cmd>:tabe<CR>", opts)
+keymap("n", "<leader>btt", "<cmd>:terminal<CR>", opts)
 
 
 -- Insert_Mode
