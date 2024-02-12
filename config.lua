@@ -11,5 +11,5 @@ reload "user.lsp"
 reload "user.inlay-hints"
 reload "user.functions"
 reload "user.fidget"
-
--- reload "user.fidget"
+reload "user.plugins.telescope"
+reload "user.plugins.symbols-outline"

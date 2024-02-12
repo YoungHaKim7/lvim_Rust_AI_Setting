@@ -24,6 +24,10 @@ lvim.keys.normal_mode["L"] = "<cmd>:bn<CR>"
 lvim.keys.normal_mode["H"] = "<cmd>:bp<CR>"
 lvim.keys.normal_mode["<leader>rnn"] = ":%s//gc<Left><Left><Left>"
 
+lvim.keys.normal_mode["<leader><leader>"] = "<cmd>Telescope buffers<CR>"
+lvim.keys.normal_mode["<leader>s"] = "<cmd>Telescope treesitter<CR>"
+lvim.keys.normal_mode["<leader>S"] = "<cmd>Telescope lsp_dynamic_workspace_symbols<CR>"
+
 -- ------
 -- Visual_Mode ---
 lvim.keys.visual_mode["J"] = ":m '>+1<CR>gv=gv"
