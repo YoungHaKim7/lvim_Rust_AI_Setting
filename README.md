@@ -334,6 +334,9 @@ https://github.com/NTBBloodbath/zig-tools.nvim
 
 # 내 NeoVim 세팅(LazyVim & NeoVim)[[🔝]](#contents-)
 
+- 최종완성(Rust, C/C++, Zig, TabbyAI완벽설치)(gy_version_final)
+  - https://github.com/YoungHaKim7/rust_dev_neovide_nvimsetting
+
 - https://github.com/YoungHaKim7/nvim_gysetting
   - Windows에 쓸만한 NeoVim
     - https://github.com/YoungHaKim7/nvim_gy_NvChad_version
