@@ -27,6 +27,7 @@ lvim.keys.normal_mode["<leader>rnn"] = ":%s//gc<Left><Left><Left>"
 lvim.keys.normal_mode["<leader><leader>"] = "<cmd>Telescope buffers<CR>"
 lvim.keys.normal_mode["<leader>s"] = "<cmd>Telescope treesitter<CR>"
 lvim.keys.normal_mode["<leader>S"] = "<cmd>Telescope lsp_dynamic_workspace_symbols<CR>"
+lvim.keys.normal_mode["<leader>eo"] = "<cmd>Telescope oldfiles<CR>"
 
 -- ------
 -- Visual_Mode ---
