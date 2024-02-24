@@ -10,6 +10,7 @@
 
 ## Contents [[🔝]](#contents-)
 - [my NeoVim & LazyVim세팅 ](#내-neovim-세팅lazyvim--neovim)
+- [my Lunarvim Setting내 루나빔 세팅Setting](#my-lunarvim-setting내-루나빔-세팅setting)
 
 <hr>
 
