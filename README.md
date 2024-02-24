@@ -38,7 +38,7 @@
 
 <hr>
 
-# lvim_Rust_AI_Setting
+# lvim(LunarVim)_Rust_AI_Setting(LinuxOS)
 LunarVim_luaSetting_(Rust Languges &amp; Tabby AI &amp; snippets setting)
 
 - lvim-config_gyoung
