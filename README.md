@@ -341,7 +341,13 @@ https://github.com/NTBBloodbath/zig-tools.nvim
   - Windows에 쓸만한 NeoVim
     - https://github.com/YoungHaKim7/nvim_gy_NvChad_version
 
+# My LunarVim Setting내 루나빔 세팅Setting[[🔝]](#contents-)
 
+- macOS
+  - https://github.com/YoungHaKim7/lvim-config_gyoung_macOSsetting_TabbyAI
+
+- linuxOS간단 세팅
+  - https://github.com/YoungHaKim7/lvim_Rust_AI_Setting
 
 <hr>
 
