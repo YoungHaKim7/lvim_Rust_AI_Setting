@@ -345,6 +345,8 @@ https://github.com/NTBBloodbath/zig-tools.nvim
 
 # My LunarVim Setting내 루나빔 세팅Setting[[🔝]](#contents-)
 
+- [LunarVimSetting최종 버젼(Final)](https://github.com/YoungHaKim7/lvim-config_gy_Tabby_AI_macOSsetting)
+
 - macOS
   - https://github.com/YoungHaKim7/lvim-config_gyoung_macOSsetting_TabbyAI
 
