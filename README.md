@@ -9,6 +9,7 @@
 <hr>
 
 ## Contents [[🔝]](#contents-)
+- [LunarVimSetting최종 버젼(Final)](https://github.com/YoungHaKim7/lvim-config_gy_Tabby_AI_macOSsetting)
 - [my NeoVim & LazyVim세팅 ](#내-neovim-세팅lazyvim--neovim)
 - [my Lunarvim Setting내 루나빔 세팅Setting](#my-lunarvim-setting내-루나빔-세팅setting)
 
