@@ -363,3 +363,5 @@ https://youtu.be/stCXFxC4OH0
 # Fork Github & Thank you.[[🔝]](#contents-)
 
 https://github.com/adibhanna/lvim-config
+- 다른 외국인꺼
+  - https://github.com/pojokcodeid/lunarvim-config-manual
