@@ -13,8 +13,6 @@ keymap("n", "<leader>btt", "<cmd>terminal<CR>", opts)
 -- Insert_Mode
 lvim.keys.insert_mode["jk"] = "<Esc>"
 
-
-
 -- ------
 -- Normal --
 
@@ -42,10 +40,10 @@ keymap("n", "<m-l>", "<C-w>l", opts)
 keymap("n", "<m-tab>", "<c-6>", opts)
 
 -- Resize with arrows
-keymap("n", "<C-K>", ":resize -2<CR>", opts)
-keymap("n", "<C-J>", ":resize +2<CR>", opts)
-keymap("n", "<C-H>", ":vertical resize -2<CR>", opts)
-keymap("n", "<C-L>", ":vertical resize +2<CR>", opts)
+keymap("n", "__", ":resize -2<CR>", opts)
+keymap("n", "++", ":resize +2<CR>", opts)
+keymap("n", "--", ":vertical resize -2<CR>", opts)
+keymap("n", "==", ":vertical resize +2<CR>", opts)
 
 
 return M

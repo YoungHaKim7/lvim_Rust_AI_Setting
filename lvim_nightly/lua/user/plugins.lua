@@ -69,10 +69,10 @@ lvim.plugins = {
       vim.g.rustfmt_autosave = 1
     end
   },
-  -- {
-  --   "TabbyML/vim-tabby",
-  --   init = function ()
-  --     vim.g.tabby_keybinding_accept = '<Tab>'
-  --   end
-  -- },
+  {
+    "TabbyML/vim-tabby",
+    init = function ()
+      vim.g.tabby_keybinding_accept = '<C-b>'
+    end
+  },
 }
